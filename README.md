@@ -77,22 +77,27 @@ I feel like this helps me a lot hang my thoughts on a particular place.
 - [ ] Sort To-Dos by priority inside current day (either before entry or after)
 - [ ] Be able to see a weeks view of what's due when
 - [ ] Set old pages as read-only (non-project stuff)
+- [ ] Tagging
 
 
 ## Gold Plating / Crazy Ideas
 
 - [ ] Insert an inspirational quote/scripture at the top of each page?
 - [ ] Print out pages (not printed already) by using HTML rendering + opening up a browser
-- [ ] Browser interface?
+- [ ] A web interface
 - [ ] An app? (I can dream can't it?)
-- [ ] defines custom markers? (without a )
+- [ ] Habitica integration. Because who doesn't like getting weapons for completing tasks?
 
 
 # Interface
 
 ## Commands
 
-- __[i]ndex__            -> view index / mission statement
-- __[g]o__ i             -> go to page `i`
-- __[t]odo__ "make this" -> add a todo to the current day
+```
+$ bj help
+
+  [i]ndex            -> view index / mission statement / Summary
+  [g]o i             -> go to page `i`
+  [t]odo"make this"  -> add a todo to the current day
+```
 
