@@ -1,0 +1,5 @@
+"Rule: ocaml: ml -> cmo & cmi (%=src/main )": "\215\189\162\140h\\V\246Yu\162[\196\2138*"
+"Rule: ocaml: cmx* & o* -> native (%=src/main )": "c\219\236\153\166\2228\203\215\208\230v\002\195\177\027"
+"Rule: ocaml dependencies ml (%=src/main )": "\178r\001'})\197\229G\172`%\029\007\240\182"
+"Resource: /home/justgage/code/ocaml/bullet_journal_digital/src/main.ml": "Q\235.A\195\232\214\006\004\182\233=E\253\205J"
+"Rule: ocaml: ml & cmi -> cmx & o (%=src/main )": "\248tF\241\213\236\134\164\014\150[\186s\175\131\149"

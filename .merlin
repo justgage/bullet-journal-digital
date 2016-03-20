@@ -1,0 +1,6 @@
+S src
+
+PKG core
+PKG calendar
+
+B _build/**
