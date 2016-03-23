@@ -8,7 +8,7 @@ import NeatInterpolation
 import Safe
 import qualified Data.Text as T
 import qualified Data.Text.IO as TIO
--- import qualified FileManip as FM
+import qualified FileManip as FM
 
 
 helpText = 
@@ -34,7 +34,7 @@ help (Just x) = T.unlines [ ""
 
 route :: Maybe String -> [String] -> IO ()
 route (Just "add")  args = putStrLn "Adding a new entry (not implemented)"
---route (Just "init") args = FM.initFolder
+route (Just "init") args = FM.initFolder
 route Nothing       args = TIO.putStrLn $ help Nothing
 route x             args = TIO.putStrLn $ help x
 
