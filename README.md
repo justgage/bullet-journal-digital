@@ -1,3 +1,7 @@
+```
+⚠️ This doesn't work, it's just a sketch of an idea
+```
+
 # Bullet Journal Digital
 
 I love the [bullet journal](http://bulletjournal.com/) methodology. I actually think that going back to paper is kind of a beautiful thing in such a digital dominated world. It often helps me to disconnect and think clearly. However I do find that bullet journals are sub-optimal for as a student for the following reasons:
