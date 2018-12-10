@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Gage Peterson <justgage@gmail.com>"]
 
 [dependencies]
+docopt = "1"
+serde = "1.0" # if you're using `derive(Deserialize)`
+serde_derive = "1.0" # if you're using `derive(Deserialize)`
