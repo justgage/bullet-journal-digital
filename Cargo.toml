@@ -2,6 +2,7 @@
 name = "bj"
 version = "0.1.0"
 authors = ["Gage Peterson <justgage@gmail.com>"]
+edition = "2018"
 
 [dependencies]
 docopt = "1"
